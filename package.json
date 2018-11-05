@@ -1,0 +1,9 @@
+{
+  "name": "learning_webgl",
+  "version": "0.0.1",
+  "description": "Playground for learning WebGL",
+  "main": "src/index.js",
+  "repository": "https://github.com/MainShayne233/learning_webgl",
+  "author": "MainShayne233 <shaynetremblay@hotmail.com>",
+  "license": "MIT"
+}
